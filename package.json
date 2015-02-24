@@ -1,0 +1,14 @@
+{
+  "name": "tds-scraper",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*",
+    "request": ">= 2.36.0",
+    "properties-reader": ">=0.0.9",
+    "require":"*",
+    "fs":"*"
+  }
+}
+
